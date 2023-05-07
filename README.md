@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ashna Verma^^
+### Hi there 👋, I'm Ashna Verma
 - 🚀 I'm fascinated with space, programming and Deep Learning
 - 👩‍🎓 At present, a third year B.Tech student of Electronics and Communication Engineering at VIT Chennai
 - 🔭 Currently working on cool and exciting projects like Random Image Caption generation and Image procesing algorithms
